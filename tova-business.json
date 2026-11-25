@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T08:08:00.654Z",
+  "slug": "selwyndental",
+  "name": "Selwyn Dental",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Dentists",
+    "niche": "dentists",
+    "group": "Health & medical"
+  },
+  "contact": {
+    "phone": "+6432600322",
+    "email": "reception@selwyndental.co.nz",
+    "address": "3/55 Faringdon Blvd, Rolleston"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/101719555129862",
+    "youtube": "https://www.youtube.com/channel/UCf8rcJwKVjhxcadiFauFhLg"
+  },
+  "about": {},
+  "before": {
+    "url": "http://www.selwyndental.co.nz/",
+    "domain": "selwyndental.co.nz",
+    "finalUrl": "https://www.selwyndental.co.nz/",
+    "title": "Dental Implants Christchurch - Selwyn Dental - The Implant Specialist",
+    "pages": 10,
+    "score": 46,
+    "assessedAt": "2026-11-19T12:51:30.954Z",
+    "issues": [
+      {
+        "id": "no-contact-path",
+        "title": "No easy way to get in touch",
+        "evidence": "No tap-to-call link and no enquiry form on the homepage."
+      },
+      {
+        "id": "stale-copyright",
+        "title": "Looks out of date",
+        "evidence": "Footer copyright reads 2020, 6 years ago."
+      },
+      {
+        "id": "no-meta-desc",
+        "title": "No search description",
+        "evidence": "No meta description, so Google chooses random page text for search results."
+      },
+      {
+        "id": "no-schema",
+        "title": "No local-business search markup",
+        "evidence": "No structured data, so Google has less to show for the business."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/selwyn-dental/",
+    "repoUrl": "https://github.com/tova-studio/selwyn-dental",
+    "generator": "claude",
+    "accent": "#a67c5b",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T08:08:00.655Z"
+  }
+}
